@@ -36,7 +36,7 @@ Implementation of text-classification using python, sklearn and nltk which class
 
 ## Problem Statement
 
-the training (train_set.csv) and testing (test_set.csv) data for the text classification task.  
+The training (train_set.csv) and testing (test_set.csv) data for the text classification task.  
 Columns: 1. label:12 classes; 2. text: description of the code
 Build the algorithm to classify text into these 12 categories.
 
