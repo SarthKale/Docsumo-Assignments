@@ -15,7 +15,7 @@ To clone this repository, run the following in a terminal
 ```bash
 git clone https://github.com/SarthKale/Docsumo-Assignments.git
 cd Docsumo-Assignments
-pip install -r requirements.txt
+pip install -r task1-image-alignment/requirements.txt
 ```
 
 ## Run Application
@@ -50,7 +50,7 @@ To clone this repository, run the following in a terminal
 ```bash
 git clone https://github.com/SarthKale/Docsumo-Assignments.git
 cd Docsumo-Assignments
-pip install -r requirements.txt
+pip install -r task2-text-classification/requirements.txt
 ```
 
 ## Run Application
